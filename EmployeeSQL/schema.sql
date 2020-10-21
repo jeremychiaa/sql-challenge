@@ -1,3 +1,5 @@
+-- Data Engineering
+
 DROP TABLE IF EXISTS departments;
 DROP TABLE IF EXISTS dept_emp;
 DROP TABLE IF EXISTS dept_manager;
